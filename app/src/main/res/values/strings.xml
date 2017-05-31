@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CircularReveal</string>
+    <string name="text_View1">Thanks its Working</string>
+    <string name="text_View2">This dialog opens with Reveal Effect</string>
+</resources>
